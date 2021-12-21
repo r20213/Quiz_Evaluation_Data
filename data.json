@@ -1,0 +1,96 @@
+{
+    "178": {
+        "professorid": 178,
+        "professorname": "Dr. Debarka",
+        "ownedquizzes": {
+            "181": {
+                "qtype": "mc",
+                "numq": 5,
+                "scoreperquestion": 1,
+                "totaltime": 60,
+                "daysavailable": 10,
+                "published": false,
+                "answers_verified": false,
+                "questions_mc": {
+                    "1": {
+                        "question": "This extension is called paragraph2vec or doc2vec and has been implemented in the C,  _______  and Java/Scala tools (see below), with the Java and  _______  versions also supporting inference of document embeddings on new, unseen documents.",
+                        "answer": "This extension is called paragraph2vec or doc2vec and has been implemented in the C, Python and Java/Scala tools (see below), with the Java and Python versions also supporting inference of document embeddings on new, unseen documents.",
+                        "choices": [
+                            "Banshee",
+                            "Apparition",
+                            "Control",
+                            "Python"
+                        ]
+                    },
+                    "2": {
+                        "question": "This extension is called paragraph2vec or doc2vec and has been implemented in the C, Python and  _______ /Scala tools (see below), with the  _______  and Python versions also supporting inference of document embeddings on new, unseen documents.",
+                        "answer": "This extension is called paragraph2vec or doc2vec and has been implemented in the C, Python and Java/Scala tools (see below), with the Java and Python versions also supporting inference of document embeddings on new, unseen documents.",
+                        "choices": [
+                            "Timor",
+                            "Bali",
+                            "Java",
+                            "Indonesian Borneo"
+                        ]
+                    },
+                    "3": {
+                        "question": " _______ 2vec takes as its input a large corpus of text and produces a vector space, typically of several hundred dimensions, with each unique  _______  in the corpus being assigned a corresponding vector in the space.",
+                        "answer": "Word2vec takes as its input a large corpus of text and produces a vector space, typically of several hundred dimensions, with each unique word in the corpus being assigned a corresponding vector in the space.",
+                        "choices": [
+                            "Allocation Unit",
+                            "Byte",
+                            "Block",
+                            "Word"
+                        ]
+                    },
+                    "4": {
+                        "question": "Patterns such as \u201cMan is to  _______  as Brother is to Sister\u201d can be generated through algebraic operations on the vector representations of these words such that the vector representation of \u201cBrother\u201d - \u201cMan\u201d + \u201c _______ \u201d produces a result which is closest to the vector representation of \u201cSister\u201d in the model.",
+                        "answer": "Patterns such as \u201cMan is to Woman as Brother is to Sister\u201d can be generated through algebraic operations on the vector representations of these words such that the vector representation of \u201cBrother\u201d - \u201cMan\u201d + \u201cWoman\u201d produces a result which is closest to the vector representation of \u201cSister\u201d in the model.",
+                        "choices": [
+                            "Female Child",
+                            "Female Offspring",
+                            "Woman",
+                            "Foster-sister"
+                        ]
+                    },
+                    "5": {
+                        "question": "Patterns such as \u201cMan is to Woman as  _______  is to Sister\u201d can be generated through algebraic operations on the vector representations of these words such that the vector representation of \u201c _______ \u201d - \u201cMan\u201d + \u201cWoman\u201d produces a result which is closest to the vector representation of \u201cSister\u201d in the model.",
+                        "answer": "Patterns such as \u201cMan is to Woman as Brother is to Sister\u201d can be generated through algebraic operations on the vector representations of these words such that the vector representation of \u201cBrother\u201d - \u201cMan\u201d + \u201cWoman\u201d produces a result which is closest to the vector representation of \u201cSister\u201d in the model.",
+                        "choices": [
+                            "Alter Ego",
+                            "Amigo",
+                            "Best Friend",
+                            "Brother"
+                        ]
+                    }
+                },
+                "questions_sub": {
+                    "1": {
+                        "question": "What is the name of the group of related models used to produce word embeddings?",
+                        "answer": "Approach Word2vec is a group of related models that are used to produce word embeddings.",
+                        "verified_answer": ""
+                    },
+                    "2": {
+                        "question": "What is the name of the word2vec algorithm?",
+                        "answer": "Word2vec takes as its input a large corpus of text and produces a vector space, typically of several hundred dimensions, with each unique word in the corpus being assigned a corresponding vector in the space.",
+                        "verified_answer": ""
+                    },
+                    "3": {
+                        "question": "How many dimensions are used to create a vector space?",
+                        "answer": "Typically, the dimensionality of the vectors is set to be between 100 and 1,000.",
+                        "verified_answer": ""
+                    },
+                    "4": {
+                        "question": "What did the authors explain about the word2vec algorithm?",
+                        "answer": "Other researchers helpfully analysed and explained the algorithm.",
+                        "verified_answer": ""
+                    },
+                    "5": {
+                        "question": "What is the main reason for word embedding?",
+                        "answer": "Analysis The reasons for successful word embedding learning in the word2vec framework are poorly understood.",
+                        "verified_answer": ""
+                    }
+                }
+            }
+        }
+    }
+}
